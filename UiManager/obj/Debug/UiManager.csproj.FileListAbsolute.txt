@@ -1,0 +1,11 @@
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\UiManager\bin\Debug\UiManager.exe
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\UiManager\bin\Debug\UiManager.pdb
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\UiManager\bin\Debug\Engine.dll
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\UiManager\bin\Debug\Engine.pdb
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\UiManager\obj\Debug\UiManager.csprojResolveAssemblyReference.cache
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\UiManager\obj\Debug\UiManager.GameSettings.resources
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\UiManager\obj\Debug\UiManager.csproj.GenerateResource.cache
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\UiManager\obj\Debug\UiManager.csproj.CoreCompileInputs.cache
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\UiManager\obj\Debug\UiManager.csproj.CopyComplete
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\UiManager\obj\Debug\UiManager.exe
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\UiManager\obj\Debug\UiManager.pdb

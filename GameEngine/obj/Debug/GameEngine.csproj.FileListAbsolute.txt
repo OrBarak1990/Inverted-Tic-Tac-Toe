@@ -1,0 +1,6 @@
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\GameEngine\bin\Debug\Engine.dll
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\GameEngine\bin\Debug\Engine.pdb
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\GameEngine\obj\Debug\GameEngine.csprojResolveAssemblyReference.cache
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\GameEngine\obj\Debug\Engine.dll
+C:\Users\orbar\OneDrive\Documents\Visual Studio 2017\Projects\C#\ex05\C17 Ex05  Or Barak 302610720 Dor Godsi 204589196\GameEngine\obj\Debug\Engine.pdb
